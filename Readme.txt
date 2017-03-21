@@ -1,1 +1,0 @@
-This is a project submission to MCC Ltd.
